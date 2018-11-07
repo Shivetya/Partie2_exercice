@@ -1,1 +1,3 @@
 deuxième fichier
+
+Deuxième ligne dans le deuxième fichier.
